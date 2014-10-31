@@ -1,0 +1,4 @@
+2014-10-31 7:44:18 - PHP Notice:  Undefined variable: text_edit in D:\Apache24\htdocs\GogoDesginer\upload\admin\view\template\setting\setting.tpl on line 29
+2014-10-31 7:50:36 - PHP Notice:  Undefined variable: text_edit in D:\Apache24\htdocs\GogoDesginer\upload\admin\view\template\setting\setting.tpl on line 29
+2014-10-31 8:37:30 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\Apache24\htdocs\GogoDesginer\upload\system\library\mail.php on line 162
+2014-10-31 8:39:39 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in D:\Apache24\htdocs\GogoDesginer\upload\system\library\mail.php on line 162
